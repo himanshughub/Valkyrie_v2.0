@@ -128,4 +128,9 @@ In the attacker's shoes, it is assumed that you don't have access to the origina
 compare with the key-locked chip logic circuit in order to identify structural vulnerabilities and recover the 
 original chip design.
 
+## Demos:
 
+** Demo 1: ** 
+
+
+** Demo 2: ** 
