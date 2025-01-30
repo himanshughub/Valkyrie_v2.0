@@ -1,5 +1,9 @@
 # Valkyrie_v2.0 - Reimplementation
 
+
+
+During my Masters in Cybersecurity at the University of Delaware, I reimplemented the reseach work which was published in the IEEE journal paper which was authored by 
+
 ## DESCRIPTION:
 Valkyrie is an open-source tool developed using academic methodologies that assists defenders
 in identifying vulnerabilities (critical signal wires) in provably secure logic locking (PSLL)
@@ -24,13 +28,6 @@ FEATURES:
    • This tool work for both SFLT and DFLT PSLL logic locked circuits
    • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
    • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
-
-
-
-## Key Features:
-
-## Citation:
-
 
 
 ## 📚 Library Versions Used in the Project
