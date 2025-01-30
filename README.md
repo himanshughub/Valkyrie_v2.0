@@ -47,12 +47,21 @@ strategically inserting faults at critical signal points.
     → Critical Signal(s) (CS)
 
 ## Features:
-   • This tool work for both SFLT and DFLT PSLL logic locked circuits
-   
-   • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
-   
-   • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
+• Used open-source libraries for the implementation, eliminating the need for costly commercial tools
 
+• Added separate argument "--parallel_process enable" to enable parallel processing feature
+
+• Increased the performance speed by 6x than standard computation by utilizing CPU parallel processing
+
+• This tool work for all SFLT and DFLT known PSLL Provable logic locked circuits
+
+• This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
+
+• This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
+
+• Improved the script UI, performance, error handling and added audit logs features
+
+   
 ## Academic Open Source tools used in the project
    • ABC tool (an academic synthesis tool) - https://github.com/berkeley-abc/abc
    
