@@ -36,6 +36,11 @@ hardware chip designs. In addition to identifying vulnerabilities, it also demon
 of concept on how to leverage these vulnerabilities to restore the original circuit design by
 strategically inserting faults at critical signal points.
 
+## Problem motivation:
+→ Lack of vulnerability testing tool for finding vulnerabilities in the chip logic designs
+→ IP piracy and IC overproduction are causing losses worth millions of US dollars in the global
+  semiconductor market.
+
 ## Why use this tool?
 → IP piracy and IC overproduction in the market are causing millions of dollars in losses to 
   a country's GDP and the company's revenue.
@@ -50,11 +55,17 @@ strategically inserting faults at critical signal points.
     → Critical Signal(s) (CS)
 
 ## Goal:
-→ The goal is to identify the wire(s) in the chip logic circuit design where inserting a fault will  recover the original or unmasked all variant of PSLL (provable secure login locking) chip design.
+→ The goal is to identify the wire(s) in the chip logic circuit design where inserting a fault will
+  recover the original or unmasked all variant of PSLL (provable secure login locking) chip design.
 
 ## Challenges:
-- Identifying the critical signal wire from millions or billions of lines in the chip logic design is like finding a needle in a haystack.
-- Analysing millions of lines in logic 
+- Identifying the critical signal wire from millions or billions of lines in the chip logic design
+  is like finding a needle in a haystack.
+- Analyzing and applying the structural properties of logic-locked circuits to identify critical
+  signal wires for all provably secure logic-locked designs.
+- Utilizing open-source libraries that are not compatible with the current version of the operating
+  system.
+- Recovering orignal circuit without having 
 
 ## Features:
 • Used open-source libraries for the implementation, eliminating the need for costly commercial tools
