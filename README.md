@@ -50,7 +50,9 @@ strategically inserting faults at critical signal points.
 
 ## Academic Open Source tools used in the project
    • ABC tool (an academic synthesis tool) - https://github.com/berkeley-abc/abc
+   
    • Atlanta (an academic test pattern generation tool) - https://github.com/hsluoyz/Atalanta
+   
    • iverilog (an academic tool to simulate verilog file (.v) created by abc tool in graph) - https://github.com/steveicarus/iverilog?tab=readme-ov-file
 
 ## 📚 Library Versions Used in the Project
