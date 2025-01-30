@@ -116,10 +116,10 @@ chip design.
 
 ## Demos:
 
-** Demo 1: ** 
+** Demo 1: Without Parallel processing** 
 
 
-** Demo 2: ** 
+** Demo 2: With Parallel processing** 
 
 
 # **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
