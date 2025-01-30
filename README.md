@@ -1,4 +1,4 @@
-<b style="color:green;">Valkyrie_v2.0 - Reimplementation of an IEEE Research Paper</b>
+# Valkyrie_v2.0 - ![IEEE Research Paper](https://img.shields.io/badge/Reimplementation-IEEE%20Research%20Paper-green)
 
   ## Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques
 ![Valkyrie Logo](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/Valkyrie_logo.png)
