@@ -104,13 +104,17 @@ Note: Run these commands in the Valkyrie files directory
  ```
 
 ## This project is maintly divided into two parts:
-   **1. Defender: Identifying vulnerabilities assuming access to the circuit oracle**
+   **1. Defender View: Identifying vulnerabilities assuming access to the circuit oracle**
    
-   **2. Hacker: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
+   **2. Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
 
-# **Part 1: Defender: Identifying vulnerabilities assuming access to the circuit oracle**
+# **Part 1: Defender View: Identifying vulnerabilities assuming access to the circuit oracle**
 
-# Demos:
+In the defender's shoes, it is assumed that you have access to the original chip logic design (Oracle) to compare
+with the key-locked chip logic circuit in order to identify structural vulnerabilities and recover the original 
+chip design.
+
+## Demos:
 
 ** Demo 1: ** 
 
@@ -118,9 +122,10 @@ Note: Run these commands in the Valkyrie files directory
 ** Demo 2: ** 
 
 
-** Demo 3: ** 
+# **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
 
-
-** Demo 4: ** 
+In the attacker's shoes, it is assumed that you don't have access to the original chip logic design (Oracle) to 
+compare with the key-locked chip logic circuit in order to identify structural vulnerabilities and recover the 
+original chip design.
 
 
