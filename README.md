@@ -1,6 +1,6 @@
 # Valkyrie_v2.0 - Reimplementation
 
-
+![Valkyrie Logo](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/Valkyrie_logo.png)
 
 During my Masters in Cybersecurity at the University of Delaware, I reimplemented the reseach work which was published in the IEEE journal paper which was authored by 
 
