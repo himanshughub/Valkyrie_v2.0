@@ -1,17 +1,26 @@
-# Valkyrie_v2.0 - Reimplementation
+# Valkyrie_v2.0 - Reimplementation of an IEEE Research Paper
 
 ![Valkyrie Logo](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/Valkyrie_logo.png)
 
+This project was reimplemented under the guidance of **Prof. Satwik Patnaik**, one of the authors of the original published research work on Valkyrie.
+
 During my Masters in Cybersecurity at the University of Delaware, I reimplemented the reseach work which was published in the IEEE journal paper which was authored by 
 
-## DESCRIPTION:
+## Citation:
+```bash
+   •Author: Dr. Satwik Patnaik & Dr. Nimisha Limaye
+   •DOI: 10.1109/TIFS.2022.3149147
+   •Reference Link:https://ieeexplore.ieee.org/document/9703350/references#references
+```
+
+## Description:
 Valkyrie is an open-source tool developed using academic methodologies that assists defenders
 in identifying vulnerabilities (critical signal wires) in provably secure logic locking (PSLL)
 hardware chip designs. In addition to identifying vulnerabilities, it also demonstrates a proof
 of concept on how to leverage these vulnerabilities to restore the original circuit design by
 strategically inserting faults at critical signal points.
 
-## WHY USE THIS TOOL?
+## Why use this tool?
 → IP piracy and IC overproduction in the market are causing millions of dollars in losses to 
   a country's GDP and the company's revenue.
 → This tool helps defenders identify vulnerable wires in their logic-locked circuits, allowing
@@ -24,11 +33,10 @@ strategically inserting faults at critical signal points.
     → Primary Outputs (POP)
     → Critical Signal(s) (CS)
 
-FEATURES:
+## Features:
    • This tool work for both SFLT and DFLT PSLL logic locked circuits
    • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
    • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
-
 
 ## 📚 Library Versions Used in the Project
 - jq: jq-1.6
@@ -42,9 +50,7 @@ FEATURES:
 - alive_progress: 3.1.5
 
 ## Installation
-
-Navigate to the Spectra_Shield directory and run:
-
+**Run below commands to install required libraries:**
  ```bash
     sudo make
  ```
