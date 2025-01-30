@@ -52,6 +52,10 @@ strategically inserting faults at critical signal points.
 ## Goal:
 → The goal is to identify the wire(s) in the chip logic circuit design where inserting a fault will  recover the original or unmasked all variant of PSLL (provable secure login locking) chip design.
 
+## Challenges:
+- Identifying the critical signal wire from millions or billions of lines in the chip logic design is like finding a needle in a haystack.
+- Analysing millions of lines in logic 
+
 ## Features:
 • Used open-source libraries for the implementation, eliminating the need for costly commercial tools
 
