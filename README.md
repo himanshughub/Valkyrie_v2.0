@@ -52,26 +52,18 @@ strategically inserting faults at critical signal points.
    • iverilog (an academic tool to simulate verilog file (.v) created by abc tool in graph) - https://github.com/steveicarus/iverilog?tab=readme-ov-file
 
 ## 📚 Library Versions Used in the Project
-- jq: jq-1.6
-- csv: 1.0
-- json: 2.0.9
-- pytz: 2024.2
-- requests: 2.32.3
 - colorama: 0.4.6
-- openpyxl: 3.1.5
-- prettytable: 3.11.0
 - alive_progress: 3.1.5
 
 ## ⚙️ Commands to install libraries
 Note: Run these commands in the Valkyrie files directory
  ```bash
-    sudo make
+    sudo make   #This will automatically setup script permissions
     sudo apt install python3 python3-pip -y
     pip3 install colorama alive-progress
     
  ```
 
-⚙️ This command will automatically set up all required libraries with their specified versions.
 
 # Demos:
 
