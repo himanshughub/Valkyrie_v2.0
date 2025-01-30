@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/LICENSE)
+
 # Valkyrie_v2.0 - Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques
 
 **Reimplementation of a published IEEE Research Paper**
@@ -67,7 +69,6 @@ Note: Run these commands in the Valkyrie files directory
     pip3 install colorama alive-progress
     
  ```
-
 
 # Demos:
 
