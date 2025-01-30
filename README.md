@@ -8,11 +8,11 @@
 
 This project was reimplemented under the guidance of **Prof. Satwik Patnaik**, one of the authors of the original published research work on **Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques**.  
 
-During my Master's in Cybersecurity at the University of Delaware in **Spring 2024**, I enrolled in the **IoT and Embedded Systems Security** course. As part of this course project, I successfully reimplemented the research work published in an IEEE journal paper authored by **Dr. Satwik Patnaik** and **Dr. Nimisha Limaye**.
+During my Master's in Cybersecurity at the University of Delaware in **Spring 2024**, I enrolled in the **IoT and Embedded Systems Security** course. As part of this course project, I successfully reimplemented the top IEEE research conference journal paper authored by **Dr. Satwik Patnaik**, **Dr. Nimisha Limaye** & Dr. Ozgur Sinanoglu.
 
 ## Citation:
 ```bash
-   •Author: Dr. Satwik Patnaik & Dr. Nimisha Limaye
+   •Author: Dr. Satwik Patnaik, Dr. Nimisha Limaye, & Dr. Ozgur Sinanoglu
    •DOI: 10.1109/TIFS.2022.3149147
    •Reference Link:https://ieeexplore.ieee.org/document/9703350/references#references
 ```
@@ -20,7 +20,7 @@ During my Master's in Cybersecurity at the University of Delaware in **Spring 20
    •Research work enhanced & reimplemented by: Himanshu Kumar
    •LinkedIn:https://www.linkedin.com/in/himanshuk8/
    •Github:https://www.github.com/himanshughub
-   •email: himkumar@udel.edu
+   •Email: himkumar@udel.edu
 ```
 
 ## Description:
