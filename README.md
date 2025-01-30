@@ -49,6 +49,9 @@ strategically inserting faults at critical signal points.
     → Primary Outputs (POP)
     → Critical Signal(s) (CS)
 
+## Goal:
+→ The goal is to identify the wire(s) in the chip logic circuit design where inserting a fault will  recover the original or unmasked all variant of PSLL (provable secure login locking) chip design.
+
 ## Features:
 • Used open-source libraries for the implementation, eliminating the need for costly commercial tools
 
