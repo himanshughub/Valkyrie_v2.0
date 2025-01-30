@@ -62,10 +62,13 @@ strategically inserting faults at critical signal points.
 - prettytable: 3.11.0
 - alive_progress: 3.1.5
 
-## Installation
-**Run below commands to install required libraries:**
+## ⚙️ Commands to install libraries
+Note: Run these commands in the Valkyrie files directory
  ```bash
     sudo make
+    sudo apt install python3 python3-pip -y
+    pip3 install colorama alive-progress
+    
  ```
 
 ⚙️ This command will automatically set up all required libraries with their specified versions.
