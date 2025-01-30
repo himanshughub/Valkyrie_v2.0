@@ -12,6 +12,12 @@ During my Masters in Cybersecurity at the University of Delaware, I reimplemente
    •DOI: 10.1109/TIFS.2022.3149147
    •Reference Link:https://ieeexplore.ieee.org/document/9703350/references#references
 ```
+```bash
+   •Research work enhanced & reimplemented by: Himanshu Kumar
+   •LinkedIn:https://www.linkedin.com/in/himanshuk8/
+   •Github:https://www.github.com/himanshughub
+   •email: himkumar@udel.edu
+```
 
 ## Description:
 Valkyrie is an open-source tool developed using academic methodologies that assists defenders
