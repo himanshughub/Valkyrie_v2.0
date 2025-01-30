@@ -22,6 +22,9 @@ During my Master's in Cybersecurity at the University of Delaware in **Spring 20
    •Github:https://www.github.com/himanshughub
    •Email: himkumar@udel.edu
 ```
+```bash
+This project's validity can be verified by Dr. Satwik Patnaik, who can be reached at satwik@udel.edu
+```
 
 ## Description:
 Valkyrie is an open-source tool developed using academic methodologies that assists defenders
