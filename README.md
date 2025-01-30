@@ -43,7 +43,9 @@ strategically inserting faults at critical signal points.
 
 ## Features:
    • This tool work for both SFLT and DFLT PSLL logic locked circuits
+   
    • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
+   
    • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
 
 ## Academic Open Source tools used in the project
