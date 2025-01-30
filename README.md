@@ -1,6 +1,7 @@
-# **Valkyrie_v2.0 - Reimplementation of a published IEEE Research Paper**
+# Valkyrie_v2.0 - Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques
 
-  ## Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques
+**Reimplementation of a published IEEE Research Paper**
+
 ![Valkyrie Logo](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/Valkyrie_logo.png)
 
 This project was reimplemented under the guidance of **Prof. Satwik Patnaik**, one of the authors of the original published research work on **Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques**.  
