@@ -106,7 +106,7 @@ Note: Run these commands in the Valkyrie files directory
    **1. Defender: Identifying vulnerabilities assuming access to the circuit oracle**
    **2. Hacker: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
 
-# 'Part 1: Defender: Identifying vulnerabilities assuming access to the circuit oracle'
+<h1><span style="color:yellow; font-weight:bold;">Part 1: Defender: Identifying vulnerabilities assuming access to the circuit oracle</span></h1>
 
 # Demos:
 
