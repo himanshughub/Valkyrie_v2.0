@@ -46,6 +46,9 @@ strategically inserting faults at critical signal points.
    • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
    • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
 
+##Academic Open Source tools used in the project
+
+
 ## 📚 Library Versions Used in the Project
 - jq: jq-1.6
 - csv: 1.0
