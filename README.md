@@ -65,12 +65,12 @@ strategically inserting faults at critical signal points.
   signal wires for all provably secure logic-locked designs.
 - Utilizing open-source libraries that are not compatible with the current version of the operating
   system.
-- Recovering orignal circuit without having 
+- Recovering the original circuit without access to the oracle design.
 
 ## Features:
 • Used open-source libraries for the implementation, eliminating the need for costly commercial tools
 
-• Added separate argument "--parallel_process enable" to enable parallel processing feature
+• Added argument "--parallel_process enable" to enable parallel processing feature for fast computation
 
 • Increased the performance speed by 6x than standard computation by utilizing CPU parallel processing
 
@@ -81,7 +81,6 @@ strategically inserting faults at critical signal points.
 • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
 
 • Improved the script UI, performance, error handling and added audit logs features
-
    
 ## Academic Open Source tools used in the project
    • ABC tool (an academic synthesis tool) - https://github.com/berkeley-abc/abc
