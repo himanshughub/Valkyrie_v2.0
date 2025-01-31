@@ -38,15 +38,22 @@ of concept on how to leverage these vulnerabilities to restore the original circ
 strategically inserting faults at critical signal points.
 
 ## Problem motivation:
-→ Lack of vulnerability testing tool for finding vulnerabilities in the chip logic designs
+→ IP piracy and IC overproduction are causing losses worth millions of US dollars to the United States
+  and the global semiconductor market.
+  
+→ There is a lack of vulnerability testing tools for identifying security flaws in chip logic designs.
 
-→ IP piracy and IC overproduction are causing losses worth millions of US dollars in the global
-  semiconductor market.
+→ Due to the very limited availability and inaccuracy of existing vulnerability testing tools, millions
+  of chips worldwide remain exposed to open vulnerabilities, making them susceptible to reverse engineering.
+
+→ This includes the risk of top-secret military chip technology being exposed to intellectual property
+  piracy.
 
 ## Why use this tool?
 → IP piracy and IC overproduction in the market are causing millions of dollars in losses to 
   a country's GDP and the company's revenue.
-  
+→ This project aims to help the United States and global semiconductor blockchain to secure their
+  intellectual property from adversaries by preventing IP piracy and reverse engineering attacks.
 → This tool helps defenders identify vulnerable wires in their logic-locked circuits, allowing
   them to fix circuit design flaws before the IC chips go into manufacturing.
   
