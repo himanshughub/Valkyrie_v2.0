@@ -39,14 +39,17 @@ strategically inserting faults at critical signal points.
 
 ## Problem motivation:
 → Lack of vulnerability testing tool for finding vulnerabilities in the chip logic designs
+
 → IP piracy and IC overproduction are causing losses worth millions of US dollars in the global
   semiconductor market.
 
 ## Why use this tool?
 → IP piracy and IC overproduction in the market are causing millions of dollars in losses to 
   a country's GDP and the company's revenue.
+  
 → This tool helps defenders identify vulnerable wires in their logic-locked circuits, allowing
   them to fix circuit design flaws before the IC chips go into manufacturing.
+  
 → This results in protect chip intellectual property (IP) from being pirated and sold illegally.
 
     This tool, part of the Valkyrie suite, assists in finding:
