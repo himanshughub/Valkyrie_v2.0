@@ -8,7 +8,7 @@
 
 This project was reimplemented under the guidance of **Prof. Satwik Patnaik**, one of the authors of the original published research work on **Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques**.  
 
-During my Master's in Cybersecurity at the University of Delaware in **Spring 2024**, I enrolled in the **IoT and Embedded Systems Security** course. As part of this course project, I successfully reimplemented the top IEEE research conference journal paper authored by **Dr. Satwik Patnaik**, **Dr. Nimisha Limaye** & Dr. Ozgur Sinanoglu.
+During my Master's in Cybersecurity at the University of Delaware in **Spring 2024**, I enrolled in the **IoT and Embedded Systems Security** course. As part of this course project, I successfully reimplemented the top IEEE research conference journal paper authored by **Dr. Satwik Patnaik**, **Dr. Nimisha Limaye** & **Dr. Ozgur Sinanoglu**.
 
 ## Citation:
 ```bash
@@ -140,4 +140,6 @@ original chip design. The script creates it's own oracle from the locked design.
 ## Demos:
 
 ** Demo 1: Circuit recovery attack ** 
+
+![CR_Attack_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/CR_Attack/Circuit_Recovery_Attack_demo.gif)
 
