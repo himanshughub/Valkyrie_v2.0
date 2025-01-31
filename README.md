@@ -131,15 +131,13 @@ chip design.
 ![DFLT_with_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/DFLT/DFLT_with_parallel_processing_demo.gif)
 
 
-# **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
+# **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the designer oracle**
 
-In the attacker's shoes, it is assumed that you don't have access to the original chip logic design (Oracle) to 
+In the attacker's shoes, it is assumed that you don't have access to the designere original chip logic design (Oracle) to 
 compare with the key-locked chip logic circuit in order to identify structural vulnerabilities and recover the 
-original chip design.
+original chip design. The script creates it's own oracle from the locked design.
 
 ## Demos:
 
-** Demo 1: ** 
+** Demo 1: Circuit recovery attack ** 
 
-
-** Demo 2: ** 
