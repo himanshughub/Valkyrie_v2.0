@@ -128,6 +128,8 @@ chip design.
 
 **Demo 1: With Parallel processing**
 
+![DFLT_with_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/DFLT/DFLT_with_parallel_processing_demo.gif)
+
 
 # **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
 
