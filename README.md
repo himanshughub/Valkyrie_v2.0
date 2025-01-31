@@ -118,7 +118,7 @@ chip design.
 
 ** Demo 1: Without Parallel processing** 
 
-![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/videos/SFLT_without_parallel_process_demo.gif)
+![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT_without_parallel_process_demo.gif)
 
 ** Demo 2: With Parallel processing** 
 
