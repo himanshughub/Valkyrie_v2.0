@@ -139,7 +139,7 @@ original chip design. The script creates it's own oracle from the locked design.
 
 ## Demos:
 
-** Demo 1: Circuit recovery attack ** 
+**Demo 1: Circuit recovery attack** 
 
 ![CR_Attack_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/CR_Attack/Circuit_Recovery_Attack_demo.gif)
 
