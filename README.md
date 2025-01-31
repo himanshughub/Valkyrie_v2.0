@@ -2,7 +2,7 @@
 
 # Valkyrie_v2.0 - Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques
 
-**Reimplementation of a IEEE Research Paper**
+**Reimplementation of an IEEE Research Paper**
 
 ![Valkyrie Logo](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/Valkyrie_logo.png)
 
