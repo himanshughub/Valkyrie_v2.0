@@ -103,7 +103,7 @@ Note: Run these commands in the Valkyrie files directory
     
  ```
 
-## This project is maintly divided into two parts:
+## This project is implemented in two parts:
    **1. Defender View: Identifying vulnerabilities assuming access to the circuit oracle**
    
    **2. Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
@@ -114,12 +114,16 @@ In the defender's shoes, it is assumed that you have access to the original chip
 with the key-locked chip logic circuit in order to identify structural vulnerabilities and recover the original 
 chip design.
 
-## Demos:
+## SFLT Demos:
 
 ** Demo 1: Without Parallel processing** 
 
 
 ** Demo 2: With Parallel processing** 
+
+## DFLT Demos:
+
+** Demo 1: With Parallel processing**
 
 
 # **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
