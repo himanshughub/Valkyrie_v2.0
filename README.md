@@ -118,11 +118,11 @@ chip design.
 
 **Demo 1: Without Parallel processing** 
 
-![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT_without_parallel_process_demo.gif)
+![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT/SFLT_without_parallel_process_demo.gif)
 
 **Demo 2: With Parallel processing** 
 
-![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT_with_parallel_processing_demo.gif)
+![SFLT_with_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT/SFLT_with_parallel_processing_demo.gif)
 
 ## DFLT Demos:
 
