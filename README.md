@@ -116,17 +116,17 @@ chip design.
 
 ## SFLT Demos:
 
-** Demo 1: Without Parallel processing** 
+**Demo 1: Without Parallel processing** 
 
 ![SFLT_without_parallel_process_demo_gif](https://github.com/himanshughub/Valkyrie_v2.0/blob/main/Images/SFLT_without_parallel_process_demo.gif)
 
-** Demo 2: With Parallel processing** 
+**Demo 2: With Parallel processing** 
 
 
 
 ## DFLT Demos:
 
-** Demo 1: With Parallel processing**
+**Demo 1: With Parallel processing**
 
 
 # **Part 2: Attacker View: Exploiting vulnerabilities to recover the original circuit without access to the oracle**
