@@ -59,7 +59,7 @@ strategically inserting faults at critical signal points.
   
 → This results in protect chip intellectual property (IP) from being pirated and sold illegally.
 
-    This tool, part of the Valkyrie suite, assists in finding:
+    This tool will analyze the chip logic design and identify the following values:
     → Primary Inputs (PI)
     → Key Inputs (KI)
     → Primary Outputs (POP)
