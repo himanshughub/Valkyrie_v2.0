@@ -79,30 +79,30 @@ strategically inserting faults at critical signal points.
 - Recovering the original circuit without access to the oracle design.
 
 ## Features:
-• Used open-source libraries for the implementation, eliminating the need for costly commercial tools
+ • Used open-source libraries for the implementation, eliminating the need for costly commercial tools
 
-• Added argument "--parallel_process enable" to enable parallel processing feature for fast computation
+ • Added argument "--parallel_process enable" to enable parallel processing feature for fast computation
 
-• Increased the performance speed by 6x than standard computation by utilizing CPU parallel processing
+ • Increased the performance speed by 6x than standard computation by utilizing CPU parallel processing
 
-• This tool work for all SFLT and DFLT known PSLL Provable logic locked circuits
+ • This tool work for all SFLT and DFLT known PSLL Provable logic locked circuits
 
-• This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
+ • This tool has the ability to detect multiple critical signals, if present, in a PSLL circuit
 
-• This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
+ • This tool can detect PI, KI, POP, and CS, even in synthesized locked benchmark files
 
-• Improved the script UI, performance, error handling and added audit logs features
+ • Improved the script UI, performance, error handling and added audit logs features
    
 ## Academic Open Source tools used in the project
-   • ABC tool (an academic synthesis tool) - https://github.com/berkeley-abc/abc
+ • ABC tool (an academic synthesis tool) - https://github.com/berkeley-abc/abc
    
-   • Atlanta (an academic test pattern generation tool) - https://github.com/hsluoyz/Atalanta
+ • Atlanta (an academic test pattern generation tool) - https://github.com/hsluoyz/Atalanta
    
-   • iverilog (an academic tool to simulate verilog file (.v) created by abc tool in graph) - https://github.com/steveicarus/iverilog?tab=readme-ov-file
+ • iverilog (an academic tool to simulate verilog file (.v) created by abc tool in graph) - https://github.com/steveicarus/iverilog?tab=readme-ov-file
 
 ## 📚 Library Versions Used in the Project
-- colorama: 0.4.6
-- alive_progress: 3.1.5
+ - colorama: 0.4.6
+ - alive_progress: 3.1.5
 
 ## ⚙️ Commands to install libraries
 Note: Run these commands in the Valkyrie files directory
