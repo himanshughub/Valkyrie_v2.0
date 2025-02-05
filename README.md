@@ -100,9 +100,9 @@ strategically inserting faults at critical signal points.
    
 - iverilog (an academic tool to simulate verilog file (.v) created by abc tool in graph) - https://github.com/steveicarus/iverilog?tab=readme-ov-file
 
-## 📚 Library Versions Used in the Project
-- colorama: 0.4.6
-- alive_progress: 3.1.5
+## 📚 Library Dependencies
+- colorama>=0.4.6
+- alive_progress:>=3.1.5
 
 ## ⚙️ Commands to install libraries
 Note: Run these commands in the Valkyrie files directory
