@@ -23,7 +23,7 @@ During my Master's in Cybersecurity at the University of Delaware in **Spring 20
    •Email: himkumar@udel.edu
 ```
 ```bash
-'This project validity can be verified by Dr. Satwik Patnaik, who can be reached at satwik@udel.edu'
+'This project work can be verified by Dr. Satwik Patnaik, who can be reached at satwik@udel.edu'
 
 'As responsible cybersecurity professionals, we cannot share the source code publicly, as it could be
  exploited by adversaries. If you have any questions, feel free to reach out to  himkumar@udel.edu,
