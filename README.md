@@ -102,14 +102,19 @@ strategically inserting faults at critical signal points.
 
 ## 📚 Library Dependencies
 - colorama>=0.4.6
-- alive_progress:>=3.1.5
+- alive_progress>=3.1.5
+- networkx>=3.2.1
+- circuitgraph>=0.2.1
+- lark>=1.1.9
 
+  
 ## ⚙️ Commands to install libraries
 Note: Run these commands in the Valkyrie files directory
  ```bash
     sudo apt install python3 python3-pip -y
     pip install networkx
     pip install circuitgraph
+    pip install lark
     sudo make   #run this command from the Valkyrie file directory, this will automatically setup script permissions
     sudo apt install python3 python3-pip -y
     pip3 install colorama alive-progress
