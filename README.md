@@ -107,7 +107,10 @@ strategically inserting faults at critical signal points.
 ## ⚙️ Commands to install libraries
 Note: Run these commands in the Valkyrie files directory
  ```bash
-    sudo make   #This will automatically setup script permissions
+    sudo apt install python3 python3-pip -y
+    pip install networkx
+    pip install circuitgraph
+    sudo make   #run this command from the Valkyrie file directory, this will automatically setup script permissions
     sudo apt install python3 python3-pip -y
     pip3 install colorama alive-progress
     
