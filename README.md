@@ -116,7 +116,6 @@ Note: Run these commands in the Valkyrie files directory
     pip install circuitgraph
     pip install lark
     sudo make   #run this command from the Valkyrie file directory, this will automatically setup script permissions
-    sudo apt install python3 python3-pip -y
     pip3 install colorama alive-progress
     
  ```
